@@ -416,6 +416,9 @@ a:hover {
 .navbar {
   transition: .3s ease;
 }
+.navbar-brand a img{
+  font-size: 10px;
+}
 
 @media (max-width: 991px) {
   .navbar-collapse {
@@ -467,7 +470,7 @@ a:hover {
 
 @media (max-width: 767px) {
   .hero-bg-1 {
-    display: none;
+    /* display: none; */
   }
 }
 
@@ -479,7 +482,7 @@ a:hover {
 
 @media (max-width: 767px) {
   .hero-bg-2 {
-    display: none;
+    /* display: none; */
   }
 }
 
@@ -491,7 +494,7 @@ a:hover {
 
 @media (max-width: 767px) {
   .hero-bg-3 {
-    display: none;
+    /* display: none; */
   }
 }
 
@@ -503,7 +506,7 @@ a:hover {
 
 @media (max-width: 767px) {
   .hero-bg-4 {
-    display: none;
+    /* display: none; */
   }
 }
 
@@ -515,7 +518,7 @@ a:hover {
 
 @media (max-width: 767px) {
   .hero-bg-5 {
-    display: none;
+    /* display: none; */
   }
 }
 
@@ -527,7 +530,7 @@ a:hover {
 
 @media (max-width: 767px) {
   .hero-bg-6 {
-    display: none;
+    /* display: none; */
   }
 }
 
@@ -1017,8 +1020,8 @@ a:hover {
 }
 
 .footer-section {
-  padding-top: 500px;
-  padding-bottom: 100px;
+  padding-top: 400px;
+  padding-bottom: 50px;
 }
 
 .footer-menu a {
@@ -1367,3 +1370,11 @@ textarea.form-control {
 }
 
 /*# sourceMappingURL=maps/style.css.map */
+
+.color1{
+  color: red;
+}
+
+.color2{
+color: #008dec;
+}
