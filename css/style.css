@@ -464,8 +464,8 @@ a:hover {
 
 .hero-bg-1 {
   position: absolute;
-  left: 30px;
-  top: 200px;
+  left: 50px;
+  top: 190px;
 }
 
 @media (max-width: 767px) {
@@ -477,7 +477,7 @@ a:hover {
 .hero-bg-2 {
   position: absolute;
   top: 50%;
-  left: 20%;
+  left: 10%;
 }
 
 @media (max-width: 767px) {
@@ -499,7 +499,7 @@ a:hover {
 }
 
 .hero-bg-4 {
-  top: 210px;
+  top: 130px;
   right: 40%;
   position: absolute;
 }
@@ -513,7 +513,7 @@ a:hover {
 .hero-bg-5 {
   position: absolute;
   top: 250px;
-  right: 17%;
+  right: 12%;
 }
 
 @media (max-width: 767px) {
@@ -524,8 +524,8 @@ a:hover {
 
 .hero-bg-6 {
   position: absolute;
-  right: 10%;
-  bottom: 20%;
+  right: 3%;
+  bottom: 35%;
 }
 
 @media (max-width: 767px) {
@@ -1377,4 +1377,10 @@ textarea.form-control {
 
 .color2{
 color: #008dec;
+}
+
+
+.icon-size{
+  width: 70px;
+  height: 70px;
 }
